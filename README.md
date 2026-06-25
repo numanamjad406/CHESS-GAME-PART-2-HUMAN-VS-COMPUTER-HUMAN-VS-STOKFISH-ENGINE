@@ -1,5 +1,5 @@
 # CHESS-GAME-PART-2-HUMAN-VS-COMPUTER-HUMAN-VS-STOKFISH-ENGINE
-# ♟️ ConsolChess — C++ Terminal Chess Engine
+# ♟️ Console Chess — C++ Terminal Chess Engine
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Position Encoding     →  Real-time FEN string generation from board state
 
 ## 📜 License
 
-This project was developed as a university final project. Feel free to study, fork, and learn from it.
+This project was developed as a university 1st semester  final project of progrmming fundmentals. Feel free to study, fork, and learn from it.
 
 ---
 
